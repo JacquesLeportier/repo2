@@ -1,0 +1,1 @@
+﻿Texte écrit en ligne de commande
